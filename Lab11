@@ -1,0 +1,26 @@
+1  sudo apt update
+    2  sudo apt install git
+    3  y
+    4  git clone https://gitlab.com/slackermedia/bachcrawl
+    5  sudo apt update && sudo apt upgrade
+    6  git clone https://gitlab.comslackermedia/bacscrawl
+    7  git clone https://gitlab.com/slackermedia/bashcrawl
+    8  cd bashcrawl/entrance
+    9  cat scroll
+   10  ls
+   11  cd scroll
+   12  cd cellar
+   13  ls
+   14  ./treasure
+   15  I=amulet
+   16  I
+   17  i
+   18  export I = amulet
+   19  export I= amulet
+   20  I
+   21  echo $I
+   22  ls
+   23  cd armoury
+   24  ls
+   25  ./potion
+   26  history 100
